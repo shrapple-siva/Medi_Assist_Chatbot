@@ -8,6 +8,7 @@ A rule-based medical information chatbot built with **Python (Flask)** as the ba
 
 ## 📁 Project Structure
 
+
 ```
 mediassist-ai/
 │
@@ -94,4 +95,8 @@ The `app.py` holds all medical knowledge and response logic. To add a new topic,
 
 ## 📄 License
 
-MIT License — open source, free to use.
+MIT License
+— open source, free to use.
+## 👥 Credits
+
+Developed by Sharvesh and Sam ([github.com/samdroz](https://github.com/samdroz)). This repository is Sharvesh's individual submission.
